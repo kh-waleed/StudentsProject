@@ -12,6 +12,7 @@ package StudentProgram;
 public class Students {
     public static void main(String[] args) {
         //first comment for Git
+        //adding comment for fetch + merge
         StudentModel[] students = new StudentModel[5];
         
         students[0] = new StudentModel("Waleed Khan", "12345");

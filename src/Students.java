@@ -13,6 +13,7 @@ public class Students {
     public static void main(String[] args) {
         //first comment for Git
         //adding comment for fetch + merge
+        //adding second comment for pull
         StudentModel[] students = new StudentModel[5];
         
         students[0] = new StudentModel("Waleed Khan", "12345");
